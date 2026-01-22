@@ -1,1 +1,1 @@
-print("duplicate branch")
+print("main branch")
