@@ -1,1 +1,1 @@
-print("This is a bad change")
+print("Hello world")
